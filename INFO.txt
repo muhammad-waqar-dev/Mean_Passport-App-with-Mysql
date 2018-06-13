@@ -1,0 +1,6 @@
+if you want to run this app 
+
+
+create mysql database name Mean_Password_Db
+
+after you download this folder run this npm install so all the node packages install
